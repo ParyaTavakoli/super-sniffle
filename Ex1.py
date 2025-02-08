@@ -1,38 +1,3 @@
-# import tkinter as tk
-
-# app = tk.Tk()
-
-# app.title("zanis gallery")
-# app.geometry("500x300")
-
-# label=tk.Label(app,font=("Arial",18),text="welcome")
-# label.grid(padx=20,pady=20)
-
-# textbox=tk.Text(app,font=("arial",18))
-# textbox.grid()
-# app.mainloop()
-
-
-# import ttkbootstrap as ttk 
-# from ttkbootstrap.constants import *
-# from tkinter import messagebox
-
-# app=ttk.Window(themename="solar")
-
-# button= ttk.Button(app,text="click me",style=SUCCESS)
-# button.grid(row=0,column=0,padx=2,pady=2)
-
-# button2= ttk.Button(app,text="click me",style=SUCCESS)
-# button2.grid(row=0,column=1,padx=2,pady=2)
-
-# button3= ttk.Button(app,text="click me",style=SUCCESS)
-# button3.grid(row=1,column=0, padx=2,pady=2)
-
-# button4= ttk.Button(app,text="click me",style=SUCCESS)
-# button4 .grid(row=1,column=1, padx=2,pady=2)
-
-# app.mainloop()
-
 
 import tkinter as tk
 from tkinter import messagebox
